@@ -1,0 +1,15 @@
+com/aluracursos/literalura_challenge/service/ConsumoAPI.class
+com/aluracursos/literalura_challenge/model/Libro.class
+com/aluracursos/literalura_challenge/model/Autor.class
+com/aluracursos/literalura_challenge/LiteraturaApplication.class
+com/aluracursos/literalura_challenge/dto/RespuestaAPI.class
+com/aluracursos/literalura_challenge/service/ConvierteDatos.class
+com/aluracursos/literalura_challenge/model/DatosAutor.class
+com/aluracursos/literalura_challenge/service/IConvierteDatos.class
+com/aluracursos/literalura_challenge/model/DatosLibro.class
+com/aluracursos/literalura_challenge/dto/DatosAutorDTO.class
+com/aluracursos/literalura_challenge/repository/LibroRepository.class
+com/aluracursos/literalura_challenge/model/Datos.class
+com/aluracursos/literalura_challenge/repository/AutorRepository.class
+com/aluracursos/literalura_challenge/principal/Principal.class
+com/aluracursos/literalura_challenge/dto/DatosLibroDTO.class

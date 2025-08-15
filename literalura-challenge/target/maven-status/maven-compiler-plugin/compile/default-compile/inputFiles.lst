@@ -1,0 +1,15 @@
+/home/keyli/Escritorio/literalura-challenge/src/main/java/com/aluracursos/literalura_challenge/LiteraturaApplication.java
+/home/keyli/Escritorio/literalura-challenge/src/main/java/com/aluracursos/literalura_challenge/dto/DatosAutorDTO.java
+/home/keyli/Escritorio/literalura-challenge/src/main/java/com/aluracursos/literalura_challenge/dto/DatosLibroDTO.java
+/home/keyli/Escritorio/literalura-challenge/src/main/java/com/aluracursos/literalura_challenge/dto/RespuestaAPI.java
+/home/keyli/Escritorio/literalura-challenge/src/main/java/com/aluracursos/literalura_challenge/model/Autor.java
+/home/keyli/Escritorio/literalura-challenge/src/main/java/com/aluracursos/literalura_challenge/model/Datos.java
+/home/keyli/Escritorio/literalura-challenge/src/main/java/com/aluracursos/literalura_challenge/model/DatosAutor.java
+/home/keyli/Escritorio/literalura-challenge/src/main/java/com/aluracursos/literalura_challenge/model/DatosLibro.java
+/home/keyli/Escritorio/literalura-challenge/src/main/java/com/aluracursos/literalura_challenge/model/Libro.java
+/home/keyli/Escritorio/literalura-challenge/src/main/java/com/aluracursos/literalura_challenge/principal/Principal.java
+/home/keyli/Escritorio/literalura-challenge/src/main/java/com/aluracursos/literalura_challenge/repository/AutorRepository.java
+/home/keyli/Escritorio/literalura-challenge/src/main/java/com/aluracursos/literalura_challenge/repository/LibroRepository.java
+/home/keyli/Escritorio/literalura-challenge/src/main/java/com/aluracursos/literalura_challenge/service/ConsumoAPI.java
+/home/keyli/Escritorio/literalura-challenge/src/main/java/com/aluracursos/literalura_challenge/service/ConvierteDatos.java
+/home/keyli/Escritorio/literalura-challenge/src/main/java/com/aluracursos/literalura_challenge/service/IConvierteDatos.java
